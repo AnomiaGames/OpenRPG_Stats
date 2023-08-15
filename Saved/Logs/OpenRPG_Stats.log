@@ -969,3 +969,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.08.15-18.12.04:437][435]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
 [2023.08.15-18.12.04:437][435]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
 [2023.08.15-18.12.27:093][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2023.08.15-18.30.25:159][334]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
