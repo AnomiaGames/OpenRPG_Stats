@@ -970,3 +970,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.08.15-18.12.04:437][435]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
 [2023.08.15-18.12.27:093][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
 [2023.08.15-18.30.25:159][334]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.08.15-19.32.04:372][632]LogSlate: Took 0.000428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.08.15-19.32.04:428][632]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/OpenRPG_Stats/Structs/s_Attribute.s_Attribute
+[2023.08.15-19.32.11:767][825]LogSlate: Window 's_Attribute' being destroyed
+[2023.08.15-19.32.11:806][825]LogSlate: Window 's_Attribute' being destroyed
+[2023.08.15-19.32.13:707][891]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/OpenRPG_Stats/Structs/s_AttributeBonus.s_AttributeBonus
+[2023.08.15-19.32.20:415][ 70]LogSlate: Window 's_AttributeBonus' being destroyed
+[2023.08.15-19.32.20:460][ 70]LogSlate: Window 's_AttributeBonus' being destroyed
+[2023.08.15-19.32.24:044][222]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/OpenRPG_Stats/Structs/s_AttributesData.s_AttributesData
+[2023.08.15-19.32.26:659][292]LogSlate: Window 's_AttributesData' being destroyed
+[2023.08.15-19.32.26:706][292]LogSlate: Window 's_AttributesData' being destroyed
+[2023.08.15-19.32.32:126][568]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/OpenRPG_Stats/Structs/s_Buff.s_Buff
+[2023.08.15-19.32.38:291][734]LogSlate: Window 's_Buff' being destroyed
+[2023.08.15-19.32.38:339][734]LogSlate: Window 's_Buff' being destroyed
+[2023.08.15-19.36.34:217][838]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OpenRPG_Stats/Blueprints/Components/BPC_Attributes.BPC_Attributes
+[2023.08.15-19.36.34:714][838]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0028 seconds. Added 126 classes and 0 folders.
+[2023.08.15-19.36.37:100][838]LogSlate: Took 0.020541 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.08.15-19.36.37:207][839]LogSlate: Took 0.020839 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.08.15-19.36.40:186][902]LogSlate: Window 'BPC_Attributes' being destroyed
+[2023.08.15-19.39.49:320][758]LogUObjectHash: Compacting FUObjectHashTables data took   9.80ms
+[2023.08.15-19.39.49:324][758]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Demo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.093
+[2023.08.15-19.39.49:347][758]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OpenRPG_Stats/Blueprints/Components/BPC_Attributes] ([2] browsable assets)...
+[2023.08.15-19.39.49:348][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/OpenRPG_Stats/Blueprints/Components/BPC_Attributes]
+[2023.08.15-19.39.50:309][758]LogSavePackage: Moving '../../../../Projects/OpenRPG_Stats/Saved/BPC_Attributes_Auto1A1F2728544EFBEA7ADE4FF90BE0BEC78.tmp' to '../../../../Projects/OpenRPG_Stats/Saved/Autosaves/Game/OpenRPG_Stats/Blueprints/Components/BPC_Attributes_Auto1.uasset'
+[2023.08.15-19.39.50:344][758]LogFileHelpers: Auto-saving content packages took 1.019
+[2023.08.15-19.40.45:632][194]BlueprintLog: New page: Compile BPC_Attributes
+[2023.08.15-19.40.45:984][194]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2023.08.15-19.40.46:710][194]LogSavePackage: Moving '../../../../Projects/OpenRPG_Stats/Saved/BPC_Attributes478222004F7BD14B8FA3FB9DDEA46E54.tmp' to '../../../../Projects/OpenRPG_Stats/Content/OpenRPG_Stats/Blueprints/Components/BPC_Attributes.uasset'
+[2023.08.15-19.40.46:781][194]AssetCheck: New page: Asset Save: BPC_Attributes
+[2023.08.15-19.40.46:781][194]LogContentValidation: Display: Validating Blueprint /Game/OpenRPG_Stats/Blueprints/Components/BPC_Attributes.BPC_Attributes
+[2023.08.15-19.40.49:094][289]LogUObjectHash: Compacting FUObjectHashTables data took   7.61ms
+[2023.08.15-19.40.50:683][289]LogSlate: Window 'Save Content' being destroyed
+[2023.08.15-19.40.50:837][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.08.15-19.40.50:900][289]LogSavePackage: Moving '../../../../Projects/OpenRPG_Stats/Saved/ThirdPersonExampleMap1EE0F30A4DD48A50C9009ABC1DEA720A.tmp' to '../../../../Projects/OpenRPG_Stats/Content/Demo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.08.15-19.40.50:905][289]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.144
+[2023.08.15-19.40.50:906][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OpenRPG_Stats/UI/WB_Attribute" FILE="../../../../Projects/OpenRPG_Stats/Content/OpenRPG_Stats/UI/WB_Attribute.uasset" SILENT=true
+[2023.08.15-19.40.50:986][289]LogSavePackage: Moving '../../../../Projects/OpenRPG_Stats/Saved/WB_Attribute9BE0947E40FEB66FFE19DCA3FFB9A72D.tmp' to '../../../../Projects/OpenRPG_Stats/Content/OpenRPG_Stats/UI/WB_Attribute.uasset'
+[2023.08.15-19.40.51:023][289]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.15-19.40.51:024][289]LogContentValidation: Display: Validating WidgetBlueprint /Game/OpenRPG_Stats/UI/WB_Attribute.WB_Attribute
+[2023.08.15-19.40.51:054][289]LogContentValidation: Display: Validating World /Game/Demo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
